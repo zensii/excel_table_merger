@@ -17,8 +17,8 @@
 #
 ### How it works
 
-The program utilises a fork of PySimpleGui -> FreeSimpleGui for the frontend GUI
-The Backend is written in Python and uses Pandas library for some data manipulation.
+The program utilises a fork of PySimpleGui -> FreeSimpleGui for the frontend.
+The Backend is written in Python and uses Pandas library for data cleaning and manipulation.
 
 Upon starting the program, the user is presented with an interface to select the files that need to be update and a save location:
 
